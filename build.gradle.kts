@@ -37,7 +37,7 @@ dependencies {
 
     implementation("io.sentry:sentry:1.7.30")
 
-    implementation("io.ktor:ktor-server-netty:1.3.2")
+    implementation("io.ktor:ktor-server-netty:1.5.0")
 }
 
 tasks.withType<KotlinCompile> {
